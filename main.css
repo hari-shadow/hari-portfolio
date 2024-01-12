@@ -226,7 +226,7 @@ li{
 }
 
 .landing-text h1{
-    font-size: 17rem;
+    font-size: 6rem;
     font-family: 'Museo Sans 100',sans-serif;
     background: linear-gradient(#f0c800ce,#ff5a3dcb);
     -webkit-background-clip: text;
